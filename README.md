@@ -5,6 +5,8 @@ The interactive base for the Geotechnical Women Faculty project at Syracuse Univ
 
 All original content is property of the GTWF Program. TEST charts are demos from Plot.ly Express.
 
-Please contact gtwfgrants(at)syr.edu with questions.
+_Please contact gtwfgrants(at)syr.edu with questions._
+
+GTWF 2016-2020
 
 # &#74448;
