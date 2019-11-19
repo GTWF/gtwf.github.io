@@ -13,4 +13,4 @@ GTWF 2016-2020
 
 
 ### Additional Credit goes to:
-+ 
++ Copyright (c) 2019 by Peiwen Lu (https://codepen.io/P233/pen/lGewF) For the timeline
