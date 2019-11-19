@@ -3,8 +3,11 @@
 <head>
   <style>
 /* -------------------------------------
- * For horizontal version, set the
- * $vertical variable to false
+ * Original Code:
+ * Copyright (c) 2019 by Peiwen Lu (https://codepen.io/P233/pen/lGewF)
+ * Modified by GTWF Program (Cameron Cumberland)
+ * Software is PROVIDED AS-IS WITHOUT WARRANTY
+ * It is free to use, remix, sell, and modify.
  * ------------------------------------- */
 /* -------------------------------------
  * General Style
@@ -22,7 +25,7 @@ body {
 
 h2 {
   margin: 3em 0 0 0;
-  font-size: 1.5em;
+  font-size: 1.8em;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -47,7 +50,7 @@ h2 {
 .date {
   margin-top: -10px;
   top: 50%;
-  left: -158px;
+  left: -160px;
   font-size: 0.95em;
   line-height: 20px;
   position: absolute;
@@ -61,7 +64,7 @@ h2 {
   left: -44px;
   width: 10px;
   height: 10px;
-  background: #48b379;
+  background: #4483E4;
   border: 5px solid #eee9dc;
   border-radius: 50%;
   display: block;
@@ -93,14 +96,14 @@ h2 {
   margin-top: -20px;
 }
 .content:after {
-  border-right-color: #48b379;
+  border-right-color: #4483E4;
   border-width: 17px;
   top: 50%;
   margin-top: -17px;
 }
 .content p {
   max-height: 0;
-  color: transparent;
+  color: #000000;
   text-align: justify;
   word-break: break-word;
   hyphens: auto;
@@ -108,12 +111,15 @@ h2 {
 }
 
 label {
-  font-size: 1.3em;
+  font-size: 1.4em;
   position: absolute;
   z-index: 100;
   cursor: pointer;
   top: 20px;
+  margin-left: 10px;
   transition: transform 0.2s linear;
+  color: #4483E4;
+  font-weight: 800;
 }
 
 .radio {
@@ -136,7 +142,7 @@ label {
 }
 .radio:checked ~ .content p {
   max-height: 200px;
-  color: #eee9dc;
+  color: #000000;
   transition: color 0.3s linear 0.3s;
 }
 /* -------------------------------------
@@ -154,7 +160,7 @@ label {
 
   label {
     width: 85%;
-    font-size: 1.1em;
+    font-size: 1.3em;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -164,10 +170,10 @@ label {
 
   .content {
     padding-top: 45px;
-    border-color: #eee9dc;
+    border-color: #000000;
   }
   .content:before, .content:after {
-    border: solid transparent;
+    border: solid;
     bottom: 100%;
   }
   .content:before {
