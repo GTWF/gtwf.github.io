@@ -7,7 +7,7 @@ All original content is property of the GTWF Program. TEST charts are demos from
 
 _Please contact ccumberl(at)syr.edu with questions._
 
-GTWF 2016-2020<sup>&copy;</sup>
+&copy; GTWF 2016-2020
 
 # &#74448;
 
