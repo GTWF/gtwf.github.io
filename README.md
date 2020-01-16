@@ -1,13 +1,13 @@
 # gtwf.github.io
 
 The interactive base for the Geotechnical Women Faculty project at Syracuse University.
-[Our Website](https://gtwf.syr.edu)
+[Our Website](http://gtwf.syr.edu)
 
 All original content is property of the GTWF Program. TEST charts are demos from Plot.ly Express.
 
 _Please contact ccumberl(at)syr.edu with questions._
 
-GTWF 2016-2020
+GTWF 2016-2020<sup>&copy;</sup>
 
 # &#74448;
 
